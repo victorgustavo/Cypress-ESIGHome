@@ -20,7 +20,7 @@
     "mochawesome": "^4.1.0",
     "mochawesome-merge": "^2.0.1",
     "mochawesome-report-generator": "^4.0.1",
-    "moment-timezone": "0.5.26",
+    "moment-timezone": "0.5.35",
     "momentjs": "2.0.0",
     "pg": "^7.12.1",
     "yesql": "^3.2.2"
